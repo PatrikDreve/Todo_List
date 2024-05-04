@@ -1,3 +1,7 @@
+.css-bg-color {
+  background-color: rgb(110, 100, 82);
+}
+
 .css-header1 {
   text-align: center;
 }
@@ -5,4 +9,10 @@
 .css-inputBox {
   border-color: black;
   font-size: 15px;
+}
+
+.css-add-button {
+  font-size: 15px;
+  background-color: green;
+  color: white;
 }
