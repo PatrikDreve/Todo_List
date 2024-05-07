@@ -8,8 +8,8 @@ function addTodo() {
 
   inputElement.value = '';
 
-  for (let index = 0; index <= todoList.length -1; index++) {
-    const value = todoList[index];
+  for (let i = 0; i <= todoList.length; i++) {
+    const value = todoList[i];
     console.log(value);
   }
 }
